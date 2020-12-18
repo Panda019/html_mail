@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+        <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Mail Lightsoft</title>
+        <style>
+* {
+	padding: 0;
+	margin: 0;
+}
+a {
+	color: rgb(19,127,227);
+}
+</style>
+        </head>
+
+        <body>
+        <table width="780" border="0" cellspacing="20" cellpadding="0" style="margin:auto">
+          <tr>
+            <td><table width="740" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td height="20" colspan="3" background="images/split_top.png">&nbsp;</td>
+              </tr>
+                <tr>
+                <td width="20" background="images/split_vertikal.png">&nbsp;</td>
+                <td width="700"><table width="700" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                    <td width="700" height="296"><a href="#" target="_blank"><img src="images/header_top-hotels.png" width="700" height="296" style="border:0" /></a></td>
+                  </tr>
+                    <tr>
+                    <td width="700" background="images/bg_content.png" height="344" style="vertical-align:text-top"><table width="700" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                        <td width="38">&nbsp;</td>
+                        <td width="624"><span style="font-family:Arial, Helvetica, sans-serif;
+                                                                          font-size:24px; font-weight:bold; line-height:400%; text-align:left;">Сongratulations from TopHotels!</span> <br />
+                            <span style="font-family:Arial, Helvetica, sans-serif; color:#000;
+                                                              font-size:14px;
+                                                              line-height:150%;
+                                                              text-align:left;
+                                                              ">Your <a href="#" target="_blank">Hotel Cleopatra Luxury Resort Makadi Bay (ex.Aldiana Makadi Bay) 5*</a> was rated 
+                          in "TOP-100 best resort hotels of the world" on TopHotels!</span> <br />
+                            <br />
+                            <br />
+                            <span style="font-family:Arial, Helvetica, sans-serif; 
+                                                              font-size:12px;
+                                                              line-height:150%;
+                                                              color:rgb(101,101,101);
+                                                              text-align:left;"> Rate of TopHotels is a measure of the hotel's success based on a thorough analysis of its activity in the Russian Travel market. The Hotel's presence in TopHotels rating is the award given by our users to the hotel. </span> <br />
+                            <br />
+                            <br />
+                            <br />
+                            <span style="font-family:Arial, Helvetica, sans-serif;
+                                                              font-size:13px;
+                                                              line-height:138%;
+                                                              text-align:left;"> Sincerely yours, <br />
+                          <a href="#" target="_blank">TopHotels</a> team. </span></td>
+                        <td width="38">&nbsp;</td>
+                      </tr>
+                      </table></td>
+                  </tr>
+                  </table></td>
+                <td width="20" background="images/split_vertikal.png">&nbsp;</td>
+              </tr>
+                <tr>
+                <td height="20" colspan="3" style="background-image:url(images/split_bottom.png)">&nbsp;</td>
+              </tr>
+              </table></td>
+          </tr>
+        </table>
+</body>
+</html>
